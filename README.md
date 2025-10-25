@@ -15,7 +15,7 @@ This notebook recognizes the food type and estimates its calorie content.
 [Watch on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7386385099535228928/)
 
 ## ⚠️ Notes
-- A Google Colab Pro account with an A100GPU is necessary, so you need to add credit to your account.
-- Please download your token, which is related to Food101.dataset, from the Kaggle site, and import it into the code, to have permission to use the mentioned dataset.
-- I ran this code in my country, Iran, and it took 5 hours and 30 minutes to show me the results.
+- A Google Colab Pro account with an A100 GPU is required, so you need to add credit to your Google Colab account.
+- Please download your Token, which is related to Food101, the dataset from the Kaggle site, and import it into the code to have permission to use the mentioned dataset.
+- I ran this code in my country, Iran, and it took 5 hours and 30 minutes to show me the results. 
 
