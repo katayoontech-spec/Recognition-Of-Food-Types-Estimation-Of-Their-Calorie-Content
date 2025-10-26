@@ -6,7 +6,9 @@ Google Colab notebook with an explanation video
 This notebook recognizes the food type and estimates its calorie content.
 
 ## 📂 Files
-- Food_Recognition(2).ipynb
+- Food_Recognition(4).ipynb
+- Executed Code With Results.zip
+- Food_Recognition_and_its_Calorie_Estimation.pdf
 
 ## ▶️ Open in Colab
 [Open in Colab](https://colab.research.google.com/github/katayoontech-spec/Recognition-Of-Food-Types-Estimation-Of-Their-Calorie-Content/blob/main/Food_Recognition%20(4).ipynb)
